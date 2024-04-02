@@ -4,9 +4,7 @@ repo: frontend # The name of this repository
 
 sites:
   - name: Subscribili
-    url: https://app.qa.subscribili.com
-  - name: Corporate Portal
-    url: https://subscribili.com
+    url: https://app.subscribili.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
