@@ -11,14 +11,12 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.subscribili.com
   # baseUrl: /your-repo-name
+  faviconSvg: https://app.subscribili.com/images/logo.svg
   logoUrl: https://app.subscribili.com/images/logo.svg
-  apiBaseUrl: https://api.subscribili.com
-  name: Subscribili
+  name: Subscribili Status
   navbar:
     - title: Home
       href: //subscribili.com
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
