@@ -10,7 +10,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.subscribili.com
-  # baseUrl: /frontend
+  # baseUrl: /your-repo-name
   logoUrl: https://app.subscribili.com/images/logo.svg
   apiBaseUrl: https://api.subscribili.com
   name: Subscribili
