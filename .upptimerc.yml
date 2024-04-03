@@ -11,8 +11,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.subscribili.com
   # baseUrl: /your-repo-name
-  # favicon: /logo-192.png
-  faviconSvg: /logo.svg
+  favicon: /logo-192.png
+  # faviconSvg: /logo.svg
   # logoUrl: /logo.svg
   name: Subscribili
   navbar:
