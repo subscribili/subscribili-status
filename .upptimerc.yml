@@ -13,7 +13,7 @@ status-website:
   # baseUrl: /your-repo-name
   favicon: /logo-192.png
   # faviconSvg: /logo.svg
-  # logoUrl: /logo.svg
+  logoUrl: /logo-192.png
   name: Subscribili
   navbar:
     - title: Status
